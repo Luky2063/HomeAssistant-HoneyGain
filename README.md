@@ -1,9 +1,13 @@
 # HomeAssistant-HoneyGain
 
 Installation :
+
 Ajouter les fichiers dans \config\custom_components\apiHoneyGain
+
 Redémarrer HomeAssistant
+
 Ajouter dans le fichier de configuration.yaml :
+
 ```
   - platform: apiHoneyGain
     token: !secret honeygain_token
