@@ -1,0 +1,10 @@
+{
+    "domain": "apiHoneyGain",
+    "name": "apiHoneyGain sensor",
+    "documentation": "",
+    "version": "1.0.0.0",
+    "requirements": [
+    ],
+    "dependencies": [],
+    "codeowners": []
+}
